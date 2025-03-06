@@ -1,4 +1,4 @@
-hThis is a Swing-based Calculator built using Java's Swing GUI framework. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly interface with interactive buttons and a display area for input and results.
+This is a Swing-based Calculator built using Java's Swing GUI framework. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly interface with interactive buttons and a display area for input and results.
 
 Features
 
